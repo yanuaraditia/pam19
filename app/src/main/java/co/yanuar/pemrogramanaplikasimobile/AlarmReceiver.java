@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 
-import static com.example.amikom.uas.NotificationUtils.ANDROID_CHANNEL_ID;
+import static co.yanuar.pemrogramanaplikasimobile.NotificationUtils.ANDROID_CHANNEL_ID;
 
 public class AlarmReceiver extends BroadcastReceiver {
     public static final String TYPE_ONE_TIME = "OneTimeAlarm";

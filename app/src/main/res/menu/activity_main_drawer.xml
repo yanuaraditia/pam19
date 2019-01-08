@@ -42,10 +42,6 @@
             android:id="@+id/technology"
             android:title="@string/technology"
             android:icon="@drawable/ic_technology"/>
-        <item
-            android:id="@+id/favorite"
-            android:title="@string/favorite"
-            android:icon="@drawable/favorite_i"/>
     </group>
 
     <item android:title="@string/judulmenu">

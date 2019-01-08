@@ -20,7 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.example.amikom.uas.DB.DataHelper;
+import co.yanuar.pemrogramanaplikasimobile.DB.DataHelper;
 
 import static android.provider.ContactsContract.CommonDataKinds.Website.URL;
 

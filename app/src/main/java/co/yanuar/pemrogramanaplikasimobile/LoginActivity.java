@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.amikom.uas.DB.DatabaseHelper;
+import co.yanuar.pemrogramanaplikasimobile.DB.DatabaseHelper;
 
 public class LoginActivity extends AppCompatActivity {
 
